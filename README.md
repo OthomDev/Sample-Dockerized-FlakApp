@@ -8,7 +8,7 @@ All what you want to do:
 
 2. run the command:
 
-   docker build -t sampleFlask:latest .
+   docker build . -t sampleFlask:latest
    
    docker images 
    
