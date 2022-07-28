@@ -12,7 +12,7 @@ All what you want to do:
    
    docker images 
    
-   docker run -d -p 5000:5000 sampleFlask:latest 
+   docker run -d -p 5000:5000 sampleflask
    
    
    
